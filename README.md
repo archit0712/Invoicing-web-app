@@ -2,6 +2,6 @@
 
 follow the commands below to start: 
 
-cd Invoicing-web-app
+1. *cd Invoicing-web-app*
 
-npm start
+2. *npm start*
